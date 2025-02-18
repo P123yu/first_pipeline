@@ -1,4 +1,4 @@
-name: Java CI with Maven for first pipeline new page1
+name: Java CI with Maven for first pipeline new page2
 
 on:
   push:
