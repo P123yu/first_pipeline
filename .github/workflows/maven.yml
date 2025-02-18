@@ -1,4 +1,4 @@
-name: Java CI with Maven for first pipeline new page
+name: Java CI with Maven for first pipeline new page1
 
 on:
   push:
@@ -35,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: piyush12singh/cicd12:latest
+          tags: piyush12singh/cicd:latest
